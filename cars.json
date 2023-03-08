@@ -1,0 +1,30 @@
+{
+  "cars": [
+    {
+      "brand": "bmw",
+      "model": "M5",
+      "price": 51000
+    },
+    {
+      "brand": "buggatti",
+      "model": "veirone",
+      "price": 71000
+    },
+    {
+      "brand": "chevrolet",
+      "model": "kamaro",
+      "price": 31000
+    },
+    {
+      "brand": "volvo",
+      "model": "V90",
+      "price": 61000
+    },
+
+    {
+      "brand": "audi",
+      "model": "tt",
+      "price": 52000
+    }
+  ]
+}
